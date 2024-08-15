@@ -1,4 +1,4 @@
-package com.ubs.hackathon.color_correction;
+package com.vt.hackathon.color_correction;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;

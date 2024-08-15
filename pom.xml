@@ -8,7 +8,7 @@
 		<version>3.3.2</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.ubs.hackathon</groupId>
+	<groupId>com.vt.hackathon</groupId>
 	<artifactId>color-correction</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>color-correction</name>

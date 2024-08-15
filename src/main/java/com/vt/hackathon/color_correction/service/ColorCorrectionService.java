@@ -1,11 +1,11 @@
-package com.ubs.hackathon.color_correction.service;
+package com.vt.hackathon.color_correction.service;
 
-import com.ubs.hackathon.color_correction.dto.CorrectedRGBDto;
-import com.ubs.hackathon.color_correction.dto.LMSColorDto;
-import com.ubs.hackathon.color_correction.dto.RGBColorRequestDto;
+import com.vt.hackathon.color_correction.dto.CorrectedRGBDto;
+import com.vt.hackathon.color_correction.dto.LMSColorDto;
+import com.vt.hackathon.color_correction.dto.RGBColorRequestDto;
 import org.springframework.stereotype.Component;
 
-import static com.ubs.hackathon.color_correction.util.Constant.*;
+import static com.vt.hackathon.color_correction.util.Constant.*;
 import static java.lang.String.valueOf;
 
 @Component

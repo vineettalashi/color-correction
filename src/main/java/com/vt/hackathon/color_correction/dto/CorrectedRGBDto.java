@@ -1,4 +1,4 @@
-package com.ubs.hackathon.color_correction.dto;
+package com.vt.hackathon.color_correction.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

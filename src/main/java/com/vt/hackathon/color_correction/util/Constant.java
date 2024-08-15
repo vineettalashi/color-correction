@@ -1,4 +1,4 @@
-package com.ubs.hackathon.color_correction.util;
+package com.vt.hackathon.color_correction.util;
 
 import java.text.DecimalFormat;
 

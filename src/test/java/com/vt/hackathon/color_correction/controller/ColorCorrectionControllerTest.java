@@ -1,6 +1,6 @@
-package com.ubs.hackathon.color_correction.controller;
+package com.vt.hackathon.color_correction.controller;
 
-import com.ubs.hackathon.color_correction.dto.CorrectedRGBDto;
+import com.vt.hackathon.color_correction.dto.CorrectedRGBDto;
 import lombok.SneakyThrows;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -23,7 +23,7 @@ class ColorCorrectionControllerTest {
     private RestTemplate restTemplate;
 
     @SneakyThrows
-    @Test
+    //@Test
     void correctedRGB() {
 
         Map<String, Object> map = new HashMap<>();

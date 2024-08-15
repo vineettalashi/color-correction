@@ -1,4 +1,4 @@
-package com.ubs.hackathon.color_correction.config;
+package com.vt.hackathon.color_correction.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

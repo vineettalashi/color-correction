@@ -1,4 +1,4 @@
-package com.ubs.hackathon.color_correction;
+package com.vt.hackathon.color_correction;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

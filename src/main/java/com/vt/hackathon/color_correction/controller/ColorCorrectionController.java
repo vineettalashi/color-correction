@@ -1,9 +1,9 @@
-package com.ubs.hackathon.color_correction.controller;
+package com.vt.hackathon.color_correction.controller;
 
-import com.ubs.hackathon.color_correction.dto.CorrectedRGBDto;
-import com.ubs.hackathon.color_correction.dto.LMSColorDto;
-import com.ubs.hackathon.color_correction.dto.RGBColorRequestDto;
-import com.ubs.hackathon.color_correction.service.ColorCorrectionService;
+import com.vt.hackathon.color_correction.dto.CorrectedRGBDto;
+import com.vt.hackathon.color_correction.dto.LMSColorDto;
+import com.vt.hackathon.color_correction.dto.RGBColorRequestDto;
+import com.vt.hackathon.color_correction.service.ColorCorrectionService;
 import jakarta.validation.Valid;
 import org.springframework.web.bind.annotation.*;
 
